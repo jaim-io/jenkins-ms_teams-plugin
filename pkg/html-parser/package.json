@@ -1,0 +1,11 @@
+{
+  "name": "job-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "Jamey Schaap",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^20.0.2"
+  }
+}

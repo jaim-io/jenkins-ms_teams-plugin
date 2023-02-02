@@ -1,0 +1,9 @@
+node_modules
+**/*.env
+*temp
+/pkg/html-parser/temp
+/pkg/html-parser/appsettings.json
+/pkg/jenkins-msteams/appsettings.json
+**/local-*.ps1
+/logs/
+**/state.json
